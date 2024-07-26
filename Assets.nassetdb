@@ -1,0 +1,12 @@
+{
+    "1a0ab730-def0-4d2d-863d-c2f32335fd9f": {
+        "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
+        "path": "Package.nplugin",
+        "name": "Bloxicity Assets"
+    },
+    "74f9b884-bbdf-bebe-a0cf-04beb6d23952": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Bloxicity_Thumb.tex.nasset"
+    },
+    "guid": "0666e638-c89b-7146-9cc7-95c60f95e927"
+}
